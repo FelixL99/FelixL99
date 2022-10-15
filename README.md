@@ -1,6 +1,6 @@
 Hello!
 
-My name is Felix Lindgren and I'm an MT student at Linköping University. This is a profile I use to keep track of anything from projects to labs.
+My name is Felix Lindgren and I'm an Media Technology student at Linköping University. This is a profile I use to keep track of anything from projects to labs.
 
 I hope that you'll find the code here interesting or helpful, depending on why you are looking at it.
 
